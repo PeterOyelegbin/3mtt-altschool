@@ -17,13 +17,32 @@
 * Submit your work in a folder for this exercise in your altschool-cloud-exercises project. You will need to learn how to embed images in markdown files.
 
 *Solution:*
-* move one level up: cd ..
-* lists all files/directories with detailed information: ll -a
-* create an alias for a frequently used command: alias cl=clear
-* append to a file: echo "add new line" >> file.txt
-* delete directory: rm -r DIR
-* compress files: tar -cvf FILENAME.tar file1 file2 file3
-* extract files: tar -xvf FILENAME.tar
-* create a use: sudo useradd USER
-* set a password for the user: sudo passwd USER
-* add a user to a group: sudo usermod -aG GROUP USER
+* move one level up: 
+`cd ..`
+
+* lists all files/directories with detailed information:
+`ll -a`
+
+* create an alias for a frequently used command: 
+`alias cl=clear`
+
+* append to a file: 
+`echo "add new line" >> file.txt`
+
+* delete directory: 
+`rm -r DIR`
+
+* compress files: 
+`tar -cvf FILENAME.tar file1 file2 file3`
+
+* extract files: 
+`tar -xvf FILENAME.tar`
+
+* create a use: 
+`sudo useradd USER`
+
+* set a password for the user: 
+`sudo passwd USER`
+
+* add a user to a group: 
+`sudo usermod -aG GROUP USER`
