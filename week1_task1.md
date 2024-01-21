@@ -3,7 +3,7 @@
 ## Task: Setup Ubuntu 20.04 LTS on your local machine using Vagrant
 
 `
-*Instruction:*
+Instruction:
 
 Customize your Vagrantfile as necessary with private_network set to DHCP
 
