@@ -1,2 +1,2 @@
-# 3mtt-altschool
-This repo contiains my learning journey in Cloud Computing with 3MTT x ALTSchoolAfrica
+# 3mtt-ALTSchoolAfrica
+This repo contains my learning journey in Cloud Computing with 3MTT x ALTSchoolAfrica
