@@ -29,9 +29,9 @@
 
 *Instruction:*
 * Submit the output of:
-`git config -l
-git remote -v
-git log`
+    `git config -l`
+    `git remote -v`
+    `git log`
 
 *Solution:*
 * 
