@@ -1,4 +1,5 @@
-# Exercise 1
+# Exercise 1 (Linux OS Setup)
+
 ### Task: Setup Ubuntu 20.04 LTS on your local machine using Vagrant
 
 *Instruction:*
@@ -6,11 +7,12 @@
 * Once the machine is up, run ifconfig and share the output in your submission along with your Vagrantfile in a folder for this exercise.
 
 *Solution:*
-![ifconfig](images/week1_task1.jpeg)
+![ifconfig](images/ifconfig.png)
 
 
 
-# Exercise 2
+# Exercise 2 (Linux Command)
+
 ### Task: Research online for 10 more Linux commands aside the ones already mentioned in this module. Submit using your AltSchool-cloud-exercises project, explaining what each command is used for with examples of how to use each and example screenshots of using each of them.
 
 *Instruction:*
