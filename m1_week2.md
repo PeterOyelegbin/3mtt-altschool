@@ -7,7 +7,14 @@
 * Submit the contents of /etc/passwd, /etc/group, /etc/sudoers
 
 *Solution:*
-* 
+* passwd sample
+![passwd sample](images/passwd.png)
+
+* group sample
+![group sample](images/group.png)
+
+* sudoers sample
+![sudoers sample](images/sudoers.png)
 
 
 
@@ -20,4 +27,8 @@
 * Submit the content of /etc/apt/sources.list and the output of php -v command.
 
 *Solution:*
-* 
+* sources.list sample
+![sources.list sample](images/sources_list.png)
+
+* php-version sample
+![php-version sample](images/php_v.png)
