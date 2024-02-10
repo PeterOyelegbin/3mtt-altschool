@@ -6,4 +6,14 @@
 * Submit all your answer as a markdown file in the folder for this exercise.
 
 *Solution:*
-* 
+* Network IP
+``` 193.16.20.33/29 ```
+
+* Number of Host
+``` 6 ```
+
+* Range of IP Addresses
+``` 6 ```
+
+* Broadcast IP
+``` 193.16.20.40 ```
