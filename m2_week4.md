@@ -11,4 +11,5 @@
 * Submit a screenshot of the rendered page.
 
 *Solution:*
-* 
+* Mini Project Sample
+![mini-project sample](images/mini_project.png)
