@@ -18,4 +18,4 @@
 [Click to view the ansible playbook sample file](terraform_mini_project/playbook.yml)
 
 * Terraform File Content
-[Click to view the terraform sample file](terraform_mini_project/playbook.yml)
+[Click to view the terraform sample file](terraform_mini_project/main.tf)
