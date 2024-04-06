@@ -16,7 +16,7 @@
 
 * Ansible File Content
 ![ansible_sample](images/ansible_sample.png)
-![ansible_file](terraform_mini_project/ansible_sample.png)
+![ansible_file](terraform_mini_project/playbook.yml)
 
 * Terraform File Content
 ![terraform_sample_1](images/terraform_sample1.png)
