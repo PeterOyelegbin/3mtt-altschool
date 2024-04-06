@@ -15,10 +15,7 @@
 ![page_sample](images/page_sample.png)
 
 * Ansible File Content
-![ansible_sample](images/ansible_sample.png)
-![ansible_file](terraform_mini_project/playbook.yml)
+[Click to view the ansible playbook sample file](terraform_mini_project/playbook.yml)
 
 * Terraform File Content
-![terraform_sample_1](images/terraform_sample1.png)
-![terraform_sample_2](images/terraform_sample1.png)
-![terraform_sample_3](images/terraform_sample1.png)
+[Click to view the terraform sample file](terraform_mini_project/playbook.yml)
