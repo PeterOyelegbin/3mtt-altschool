@@ -41,22 +41,22 @@ Using an Ansible playbook:
 * Ansible playbook
 [click to view the playbook](/beginner-mod-assessment/playbk.yaml)
 
-* Sample of my host inventory file
+*Sample of my host inventory file*
 In my host inventory file, I have included a sample that contains a slave node in my network. This file is used by configuration management tools to manage multiple hosts more conveniently. To enhance the capabilities of this file, I have added the IP address of the slave node. This will enable more efficient management of this slave and ensure that it is included in all relevant configurations.
 ![host_inventory](images/host_inventory.png)
 
-* Sample of my check uptime script
+*Sample of my check uptime script*
 This script runs as a cron job, which is a time-based scheduler in Unix-like operating systems. The purpose of the script is to keep track of the system's uptime, which is the amount of time that has elapsed since the last reboot. By running the script periodically, you can monitor the system's availability and performance over time.
 ![uptime_script](images/uptime_script.png)
 
-* Tested the master connection to slave with ansible
+*Tested the master connection to slave with ansible*
 Before executing my playbook file, I made the decision to conduct a ping test on the slave node. To achieve this, I utilized the host inventory file located on the master node. The purpose of this test was to ensure that the slave node was reachable and could communicate with the master node before running the playbook.
 ![ping sample](images/ansible_ping.png)
 
-* Execution of ansible playbook
+*Execution of ansible playbook*
 I executed the ansible playbook and I'm happy to report that the entire process was executed smoothly and efficiently, leaving no room for errors or complications. As evidence of the successful execution, the image below shows the final output and confirms that all the necessary tasks were completed as expected.
 ![playbook feedback](images/playbook_feedback.png)
 
-* Slave node web view Sample
+*Slave node web view Sample*
 Upon accessing the slave node through the browser, I observed that it was up and running smoothly without any issues, as clearly depicted in the image below.
 ![web_page](images/browser_view.png)
